@@ -10,7 +10,7 @@ Welcome to my Excel Projects repository! This space showcases my journey in mast
 
 ---
 
-## Road Accident Dashboard
+## Road Accident Dashboard 🚗📊
 This project was too big to insert freely in files so i decide to post it here.
 https://1drv.ms/x/c/51a9bbac611e7aeb/EQIZt2I6jWtMn7b3MWtAmgwB1KXWlqILf6cr19jpnMp3aA?e=Jt1629
 
@@ -44,7 +44,7 @@ This dashboard provides a comprehensive analysis of road accident data in UK, vi
    - Time-based filtering options for accident analysis (2021–2023).
    - Location-based filtering (Rural vs Urban).
 
-### Visual Elements
+### 🖼️ Visual Elements
 - **Pie Charts:** Breakdown of casualties by light condition and location.
 - **Bar Graphs:** Trends in accidents across years.
 - **Color-coded Indicators:** Visual emphasis on key metrics such as total casualties by vehicle type.
@@ -52,7 +52,7 @@ This dashboard provides a comprehensive analysis of road accident data in UK, vi
 
 ---
 
-## Coffee Sales Dashboard! ☕📊
+## Coffee Sales Dashboard ☕📊
 
 ## 📷 Preview 
 ![image](https://github.com/user-attachments/assets/33709d1a-c76f-4cad-8fa9-e4fe0a54a3f8)
@@ -75,4 +75,23 @@ This **Coffee Sales Dashboard** is an interactive data visualization tool design
 
 ---
 
+## Stock Portfolio Tracker - Travel Industries 📈📊
 
+## 📷 Preview 
+![image](https://github.com/user-attachments/assets/5097e1e4-0d1b-42fe-97f9-fb66e40b9430)
+
+## 📊 Overview
+This **Stock Portfolio Tracker** is designed to monitor investments in the travel industry. It provides insights into stock performance, market trends, and overall portfolio value to assist in data-driven investment decisions.
+
+### 🚀 Features
+- **Portfolio Breakdown** – Visual representation of stock distribution.
+- **Gain/Loss Analysis** – Tracks market value changes and profit/loss.
+- **Historical Performance Lookup** – Analyzes stock trends over different time periods.
+- **Comparison Tool** – Benchmarks selected stocks against competitors.
+
+## 📌 How to Use
+1. Import stock market data into Power BI or Tableau.
+2. Use filters to explore stock trends and portfolio breakdowns.
+3. Compare historical performance for better investment insights.
+
+---
