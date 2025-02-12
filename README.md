@@ -57,9 +57,7 @@ This dashboard provides a comprehensive analysis of road accident data in UK, vi
 ## 📷 Preview 
 ![image](https://github.com/user-attachments/assets/33709d1a-c76f-4cad-8fa9-e4fe0a54a3f8)
 
-# ☕ Coffee Sales Dashboard  
-
-## 📊 Overview  
+### 📊 Overview  
 This **Coffee Sales Dashboard** is an interactive data visualization tool designed to analyze coffee sales trends and support business decision-making. It provides insights into sales performance across different coffee types, regions, and customer segments.  
 
 ### 🚀 Key Features  
@@ -68,11 +66,6 @@ This **Coffee Sales Dashboard** is an interactive data visualization tool design
 - **Sales by Country & Customers** – Identify key markets and top buyers.  
 - **Dynamic Filtering** – Customize analysis using filters for roast type, package size, and loyalty card usage.  
 
-## 🎯 Use Cases  
-- Business decision-making based on sales trends.  
-- Identifying high-value customers and best-selling products.  
-- Optimizing pricing and marketing strategies.   
-
 ---
 
 ## Stock Portfolio Tracker - Travel Industries 📈📊
@@ -80,18 +73,31 @@ This **Coffee Sales Dashboard** is an interactive data visualization tool design
 ## 📷 Preview 
 ![image](https://github.com/user-attachments/assets/5097e1e4-0d1b-42fe-97f9-fb66e40b9430)
 
-## 📊 Overview
+### 📊 Overview
 This **Stock Portfolio Tracker** is designed to monitor investments in the travel industry. It provides insights into stock performance, market trends, and overall portfolio value to assist in data-driven investment decisions.
 
-### 🚀 Features
+### 🚀 Key Features
 - **Portfolio Breakdown** – Visual representation of stock distribution.
 - **Gain/Loss Analysis** – Tracks market value changes and profit/loss.
 - **Historical Performance Lookup** – Analyzes stock trends over different time periods.
 - **Comparison Tool** – Benchmarks selected stocks against competitors.
 
-## 📌 How to Use
-1. Import stock market data into Power BI or Tableau.
-2. Use filters to explore stock trends and portfolio breakdowns.
-3. Compare historical performance for better investment insights.
+---
+
+## World Happiness 2024 Dashboard 😊📊
+
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/6471b931-8107-4d9e-81ab-e62c4eef8041)
+
+### 📊 Overview
+This interactive **World Happiness 2024 Dashboard** visualizes global happiness scores, ranking countries based on various well-being factors. The data provides insights into what contributes to happiness worldwide.
+
+### 🚀 Key Features
+- **Top & Bottom 10 Happiest Countries** – See where each country stands.
+- **World Map Visualization** – View happiness scores globally.
+- **Happiness Factors Breakdown** – Understand what drives happiness (health, freedom, social support, etc.).
+- **GDP vs Happiness Correlation** – Explore the relationship between wealth and happiness.
 
 ---
+
+
