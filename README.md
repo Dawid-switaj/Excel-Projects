@@ -14,12 +14,13 @@ Welcome to my Excel Projects repository! This space showcases my journey in mast
 This project was too big to insert freely in files so i decide to post it here.
 https://1drv.ms/x/c/51a9bbac611e7aeb/EQIZt2I6jWtMn7b3MWtAmgwB1KXWlqILf6cr19jpnMp3aA?e=Jt1629
 
+## 📷 Preview 
 ![image](https://github.com/user-attachments/assets/93e7a735-43e0-4770-bf2e-93732928e92e)
 
-### Overview
+### 📊 Overview
 This dashboard provides a comprehensive analysis of road accident data in UK, visualizing key metrics to highlight trends and insights. The dashboard is designed to support decision-making and offer stakeholders a clearer understanding of accident patterns.
 
-### Key Features
+### 🚀 Key Features
 1. **Summary Metrics:**
    - Fatal Casualties: 7,135 (1.7%)
    - Serious Casualties: 59,312 (14.2%)
@@ -48,3 +49,30 @@ This dashboard provides a comprehensive analysis of road accident data in UK, vi
 - **Bar Graphs:** Trends in accidents across years.
 - **Color-coded Indicators:** Visual emphasis on key metrics such as total casualties by vehicle type.
 - **Heatmap:** Road surface condition (Wet, Dry, Snow).
+
+---
+
+## Coffee Sales Dashboard! ☕📊
+
+## 📷 Preview 
+![image](https://github.com/user-attachments/assets/33709d1a-c76f-4cad-8fa9-e4fe0a54a3f8)
+
+# ☕ Coffee Sales Dashboard  
+
+## 📊 Overview  
+This **Coffee Sales Dashboard** is an interactive data visualization tool designed to analyze coffee sales trends and support business decision-making. It provides insights into sales performance across different coffee types, regions, and customer segments.  
+
+### 🚀 Key Features  
+- **Sales Trends Over Time** – Track how sales fluctuate over months and years.  
+- **Top-Selling Coffee Types** – Compare the performance of Arabica, Robusta, and other varieties.  
+- **Sales by Country & Customers** – Identify key markets and top buyers.  
+- **Dynamic Filtering** – Customize analysis using filters for roast type, package size, and loyalty card usage.  
+
+## 🎯 Use Cases  
+- Business decision-making based on sales trends.  
+- Identifying high-value customers and best-selling products.  
+- Optimizing pricing and marketing strategies.   
+
+---
+
+
